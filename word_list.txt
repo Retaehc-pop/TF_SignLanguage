@@ -25,6 +25,7 @@ who
 get
 which
 go
+leave
 me
 when
 make
